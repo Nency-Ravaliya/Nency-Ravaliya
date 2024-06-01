@@ -1,5 +1,13 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Nensi Ravaliya⭐</h1>
+
+<h3 align="center" >YouTube Channel📹</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/@yatricloud?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe"/>
+  </a>
+</p>
+
 <h3 align="center">DevOps Engineer | MLOps | DevSecOps | GitOps</h3>
 
 <p align='center'>
@@ -15,7 +23,6 @@
 </p>
 
 ![Nensi Ravaliya Cover](https://github.com/Nency-Ravaliya/Nency-Ravaliya/assets/117109265/756e5f8d-d3d3-4fb7-87bb-8fb46ad8901b)
-
 
 ## About Me🙋🏻
 
@@ -36,7 +43,7 @@
 ## Socials🤝🏻
 
 <a href="https://www.linkedin.com/in/nencyravaliya28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/NencyRavaliya"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/NencyRavaliya"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://medium.com/@ravaliyanensi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://github.com/Nency-Ravaliya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -52,3 +59,4 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nensi Ravaliya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nency-Ravaliya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
