@@ -16,7 +16,7 @@
   ✍️ <a href="https://medium.com/@nens">Instagram</a>
 </p>
 
-![Cover Image]()
+![Cover Image](![Nensi - Github](https://github.com/user-attachments/assets/af510d72-0ec5-4435-88f7-a25863d288d9))
 
 ---
 
