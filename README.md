@@ -9,14 +9,24 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://nensiportfolio.yatricloud.com"><strong>My Portfolio</strong></a> • 
-  💼 <a href="https://www.linkedin.com/in/nencyravaliya28/">LinkedIn</a> • 
-  🐦 <a href="https://twitter.com/NencyRavaliya">Twitter</a> • 
-  ✍️ <a href="https://medium.com/@ravaliyanensi">Medium</a>
-  ✍️ <a href="https://medium.com/@nens">Instagram</a>
+    <a href="https://www.linkedin.com/in/nencyravaliya28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   <a href="https://www.instagram.com/nensiravaliya">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+  <a href="https://twitter.com/NencyRavaliya">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@ravaliyanensi">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+    <a href="https://nensiportfolio.yatricloud.com/">
+    <img src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-![Cover Image](![Nensi - Github](https://github.com/user-attachments/assets/af510d72-0ec5-4435-88f7-a25863d288d9))
+![Nensi - Github (2)](https://github.com/user-attachments/assets/7fe59eae-9eff-4f0a-8a0f-6d894e355fec)
 
 ---
 
@@ -24,10 +34,10 @@
 
 I’m a DevOps/MLOps/DevSecOps engineer & content creator passionate about cloud-native solutions, security automation, and workflow optimization.
 
-- 🧠 **Expertise in:** SBOM/CBOM Automation, API Security, Extension Creation, GitOps
+- 🧠 **Expertise in:** SBOM/CBOM Automation, API Security, Security Control Extension Creation, publishing using Azure DevOps, MlOps, DevSecOps, GitOps
 - 📚 **Content Creator:** Microsoft Azure, DevOps, Security & AI 
 - 🎤 **Speaker & Event Organizer:** Hosting online/offline workshops weekly
-- 💡 **Philosophy:** "Fail Forward"
+- 💡 **Fun Fact for me:** "Fail Forward"
 
 ---
 
@@ -50,43 +60,84 @@ I’m a DevOps/MLOps/DevSecOps engineer & content creator passionate about cloud
 
 ---
 
-## 🛠️ Tech Stack
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) 
-![Trivy](https://img.shields.io/badge/Trivy-F56628?style=for-the-badge&logo=trivy&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+## ⭐ Skills & Expertise
 
----
+### 🧠 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 📈 GitHub Stats
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<p align="center">
-    <img alt="Nensi Ravaliya's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Nency-Ravaliya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
+### 🔗 API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure--DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ☁️ Cloud Platforms
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🔁 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### 🧱 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🚀 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure--Pipelines-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🔐 DevSecOps
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nencyravaliya28/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/NencyRavaliya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://medium.com/@ravaliyanensi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://github.com/Nency-Ravaliya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="left">
+    <a href="https://www.linkedin.com/in/nencyravaliya28/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   <a href="https://www.instagram.com/nensiravaliya">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+  <a href="https://twitter.com/NencyRavaliya">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@ravaliyanensi">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+    <a href="https://www.nensiravaliya.me">
+    <img src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -94,7 +145,6 @@ I’m a DevOps/MLOps/DevSecOps engineer & content creator passionate about cloud
 ## 💼 Services
 
 <p align="left">
-<a href="https://www.fiverr.com/nensiravaliya"><img align="center" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 <a href="https://github.com/sponsors/Nency-Ravaliya"><img align="center" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
 </p>
 
