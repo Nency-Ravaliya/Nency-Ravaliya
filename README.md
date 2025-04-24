@@ -44,19 +44,22 @@ I’m a DevOps/MLOps/DevSecOps engineer & content creator passionate about cloud
 ## 🎓 Certifications
 
 - **Microsoft Certified:**
-  - Azure Fundamentals (AZ-900)
-  - Azure Administrator Associate
-  - Azure DevOps Engineer Expert
-  - Azure Solutions Architect Expert
-  - Azure Security Engineer Associate
-- **AWS:** Certified Solutions Architect – Associate
+  - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/NensiRavaliya-0405/9DC2B1E87E64F153?sharingId=E61424E04CEC8F78)
+  - [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/RavaliyaNensi-4062/9AE854F1BBDEBA68?sharingId=A2798E4D7514E179)
+  - [Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/api/credentials/share/en-us/RavaliyaNensi-4062/EF95D8A4378F7746?sharingId=A2798E4D7514E179)
+  - [Microsoft Certified: Azure Solutions Architect Expert (AZ-305)](https://learn.microsoft.com/api/credentials/share/en-us/RavaliyaNensi-4062/922AC22A6D9136E4?sharingId=A2798E4D7514E179)
+  - [Microsoft Certified: Azure Security Engineer Associate (AZ-500)](https://learn.microsoft.com/api/credentials/share/en-us/RavaliyaNensi-4062/7D4DA7328D61D440?sharingId=A2798E4D7514E179)
+- **AWS:** 
+  - [Certified Solutions Architect – Associate (AWS SAA)](https://www.credly.com/badges/57a1cad6-37d6-4ede-a741-48fbb6f12028/public_url)
 - **Salesforce:**
-  - AI Associate
-  - AI Specialist
-- **Oracle:** OCI 2024 AI Foundations Associate
+  - [AI Associate](https://www.salesforce.com/trailblazer/nensiravaliya)
+  - [AI Specialist](https://www.salesforce.com/trailblazer/dfaqp9mzd2h1q91ljb)
+- **Oracle:** 
+  - [OCI 2024 AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=69313C350597911329E6329601321F5931EE5DAAB8F9B740896676607F06D136)
 - **GitHub:**
-  - GitHub Admin Certified
-  - GitHub Actions Certified
+  - [GitHub Admin Certified](https://www.credly.com/badges/6b41acd1-102b-4cec-a838-d39d1588a9c6/public_url)
+  - [GitHub Actions Certified](https://www.credly.com/badges/4bcfb73e-05ff-4cc4-b1e9-c479eeb7ffe9/public_url)
+  - [GitHub Foundation]()
 
 ---
 
